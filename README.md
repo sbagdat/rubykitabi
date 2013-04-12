@@ -1,8 +1,16 @@
-# RUBY KİTABI 
-([rubykitabi.com](http://www.rubykitabi.com))
+## Ruby Kitabı
 
+Bu depoda kitapta yer alan bazı uygulamalara, sıra sizde ve kod düellolarına ait
+kaynak kodlar bulunmaktadır.
 
-Bu github deposunda kitapta yer alan, bazı uygulamalar, sıra sizde ve kod düellolarına ait kaynak kodlar bulunmaktadır. (Kitabın içeriğindeki tüm örnek ve uygulamalara yer verilmemiştir.)
+*Not: Kitabın içerisindeki tüm örnek ve uygulamalara yer verilmemiştir.*
 
+```
+Info: This repo contains source code of examples in a book written in Turkish about Ruby
+programming language.
+```
 
-**Yasal Uyarı:** Burada yer alan tüm kodların bütün yayın hakları DikeyEksen Yayın Dağıtım, Yazılım ve Eğitim Hizmetleri San. ve Tic. Ltd. Şti.'ne aittir. Yayınevinin yazılı izni olmaksızın kısmen veya tamamen alıntı yapılamaz, kopya çekilemez ve yayınlanamaz.
+Website: [rubykitabi.com][1]
+
+[1]: http://rubykitabi.com
+

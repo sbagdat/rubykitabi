@@ -2,9 +2,9 @@
 
 def ucgen_turu(*kenarlar)
   case kenarlar.uniq.length
-    when 1 then 'Eşkenar üçgen'
-    when 2 then 'İkizkenar üçgen'
-    else 'Çeşitkenar üçgen'
+  when 1 then 'Eşkenar üçgen'
+  when 2 then 'İkizkenar üçgen'
+  else 'Çeşitkenar üçgen'
   end
 end
 

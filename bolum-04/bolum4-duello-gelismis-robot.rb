@@ -33,7 +33,7 @@ class Robot
       @gunluk += "- Sol "
     end
 
-    @gunluk += "yöne #{@adim_sayisi} adım.\n" if @yon
+    @gunluk += "yöne #{adim_sayisi} adım.\n" if @yon
   end
 
   def konum_bildir

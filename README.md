@@ -11,8 +11,3 @@ kaynak kodlar bulunmaktadır.
 Info: This repo contains source code of examples in a book written in Turkish about Ruby
 programming language.
 ```
-
-Website: [rubykitabi.com][1]
-
-[1]: http://rubykitabi.com
-

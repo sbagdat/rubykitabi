@@ -1,8 +1,6 @@
 ## Ruby Kitabı
 
-[![GH version](https://badge-me.herokuapp.com/api/gh/rubykitabi/rubykitabi.png)](http://badges.enytc.com/for/gh/rubykitabi/rubykitabi)
-
-Bu depoda kitapta yer alan bazı uygulamalara, sıra sizde ve kod düellolarına ait
+Bu depoda [kitapta](https://www.dikeyeksen.com/products/ruby) yer alan bazı uygulamalara, sıra sizde ve kod düellolarına ait
 kaynak kodlar bulunmaktadır.
 
 *Not: Kitabın içerisindeki tüm örnek ve uygulamalara yer verilmemiştir.*
